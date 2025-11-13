@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Family Guy</title>
+</head>
+<body>
+    <h1>Watch Family Guy</h1>
+    <p>This is a placeholder page you control.</p>
+    <!-- You can embed an iframe to WCOFlix here if you want -->
+    <iframe src="https://www.wcoflix.tv/anime/family-guy/season=all"
+            width="100%" height="600px" style="border:none;">
+    </iframe>
+</body>
+</html>
